@@ -91,19 +91,20 @@
   align-items: center
 .sin-botones .slyder-a__bullets__item
   display: none
-.acordion__accion__btn--b
+.acordion__accion__btn--a
   border: 2px solid #FE729D
-  background-color: #FFF
-.acordion .tarjeta--blanca
-  border-bottom: 1px solid #FCB071
-  border-radius: 0px
+  background-color: #FE729D
+.acordion .tarjeta--azul
+  background-color: #E8DFF3
+.acordion .tarjeta--azul.acordion__activo
+  background-color: $color-acento-contenido !important
+  border-radius: 10px
+
 .tarjeta--blanca.acordion__activo
   background-color: #FFEDD4
   border-radius: 30px
   border-bottom: 1px solid #FFEDD4
-.acordion__header
-  @media (min-width: $bp-min-xxl)
-    margin-left: 50px
+
 
 
 .bloque-texto-g--inverso.t5
@@ -230,6 +231,10 @@
     height: 300px
     @media screen and (max-width: $bp-min-sm)
       height: auto
+.ml-5
+  margin-left: 3.5rem
+  @media screen and (max-width: $bp-min-sm)
+    margin-left: 0
 /*****************************************************/
 /*Media Queries*/
 @media screen and (max-width: $bp-max-md)
