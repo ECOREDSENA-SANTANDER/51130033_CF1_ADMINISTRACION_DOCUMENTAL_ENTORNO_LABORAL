@@ -5,49 +5,112 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Pasos para la administración
+      h1 Clases de archivo 
     
-    p.mb-4 Todo proceso para la administración de comunicaciones oficiales se encuentra bien estructurado en un conjunto de pasos o etapas que resultan necesarios como plena garantía para la realización de esta actividad, con el fin de simplificar el trabajo, mediante las orientaciones entregadas en este paso a paso, a manera de principios, métodos y procedimientos que van a facilitar una gestión documental rápida y segura. 
+    p.mb-0 Los archivos se clasifican de acuerdo al tiempo establecido en cada una de las etapas, es decir, archivo de gestión, central o histórico. 
+    Separador
+    #t_2_1.titulo-segundo.color-acento-contenido
+      h2 2.1  Según la Organización 
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-9 
+        ol.lista-ol--cuadro.lista-ol--separador
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 1
+            span.mb-0 #[b Archivo centralizado:] cuando una sola dependencia controla toda la documentación de la organización. 
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 2
+            span.mb-0 #[b Archivo descentralizado:] aquel que lleva cada una de las dependencias de la organización. Es decir, es independiente de todo proceso archivístico. 
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 3
+            span.mb-0 #[b Archivo descentralizado con control descentralizado:] este depósito de información lo lleva cada dependencia y la responsabilidad es del jefe de cada oficina. 
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 4
+            span.mb-0 #[b Archivo descentralizado con control centralizado:] este depósito de archivo se maneja de acuerdo con las necesidades de cada dependencia con archivo descentralizado, pero que a su vez se controla desde el archivo central. 
+      .col-lg-3.d-none.d-lg-block
+        img(src="@/assets/curso/temas/t2/1.png", alt="")
 
-    .row.justify-content-center(data-aos="fade-down")
-      .col-lg-3.col-md-6.col-11.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            figure
-              img(src="@/assets/curso/temas/t2/tarj1-1.png", alt="")
-            .text.p-lg-4.p-3
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 La Planificación
-                p Radica en un proceso lógico para alcanzar los objetivos del modo más eficiente siguiendo determinadas formas de acción. “metas” y “objetivos”. Los objetivos definen los pasos a cumplir para lograr las metas de las propuestas. 
-      .col-lg-3.col-md-6.col-11.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0(@mouseover="mostrarIndicador = false")
-            .indicador--hover(v-if="mostrarIndicador")
-            figure
-              img(src="@/assets/curso/temas/t2/tarj1-2.png", alt="")
-            .text.p-lg-4.p-3
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 La Organización
-                p Se utiliza para distribuir las responsabilidades entre los integrantes del equipo de trabajo, para establecer y reconocer las relaciones y vínculos necesarios.
-      .col-lg-3.col-md-6.col-11.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            figure
-              img(src="@/assets/curso/temas/t2/tarj1-3.png", alt="")
-            .text.p-lg-4.p-3
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 La Dirección
-                p Es la ejecución de los planes, la motivación, la comunicación; es decir, la etapa en la que se orienta al personal y los recursos.
-      .col-lg-3.col-md-6.col-11.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            figure
-              img(src="@/assets/curso/temas/t2/tarj1-4.png", alt="")
-            .text.p-lg-4.p-3
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 El control
-                p Es la acción de vigilancia de lo que se planeó, organizó y direccionó, con el fin de que lo propuesto, alcance el objetivo trazado.
 
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido
+      h2 2.2  Según su Uso 
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-9 
+        p.mb-5 El archivo se clasifica de acuerdo con el tiempo que se determina en cada una de las etapas documentales, sujetándose a los requerimientos de la organización: 
+        ol.lista-ol--cuadro.lista-ol--separador
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 1
+            span.mb-0 #[b Archivo activo:] compuesto por documentos del año actual o años anteriores, que se encuentren en proceso de tramitación, como: historias laborales, resoluciones, contratos y demás documentos que se encuentren en el proceso de consulta. Por tanto, es el que satisface las necesidades de conservación y consulta permanente. 
+
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 2
+            span.mb-0 #[b Archivo semiactivo:] son los documentos que varían en su periodo de conservación y su consulta es menor. 
+
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 3
+            span.mb-0 #[b Archivo inactivo:] son los documentos con una durabilidad perpetua en el periodo de conservación, de acuerdo con sus disposiciones legales, fiscales, comerciales o históricas. 
+      .col-lg-3.d-none.d-lg-block
+        img(src="@/assets/curso/temas/t2/2.png", alt="")
+
+
+
+    Separador
+    #t_2_3.titulo-segundo.color-acento-contenido
+      h2 2.3  Según su Naturaleza
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-9 
+        p.mb-5 Se clasifica de acuerdo con el tipo de entidad que realiza el proceso de archivo: 
+        ol.lista-ol--cuadro.lista-ol--separador
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 1
+            span.mb-0 #[b Archivo público:] es todo documento que pertenece a las entidades del Estado. 
+
+
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 2
+            span.mb-0 #[b Archivo privado de interés público:] son aquellos documentos que por su valor histórico, investigativo, científico o cultural son de interés público.  
+
+
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span 3
+            span.mb-0 #[b Archivo privado:] son los documentos que pertenecen a personas naturales o jurídicas.
+      .col-lg-3.d-none.d-lg-block
+        img(src="@/assets/curso/temas/t2/3.png", alt="")  
+    Separador 
+    #t_2_4.titulo-segundo.color-acento-contenido
+      h2 2.4  Según su Ciclo Vital
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-12
+        ol.lista-ol--cuadro.lista-ol--separador
+            li.d-flex
+              .lista-ol--cuadro__vineta
+                span 1
+              span.mb-0 #[b Archivo de gestión:] corresponde a la documentación que se encuentra depositada y está sujeta a consulta administrativa por toda la organización. 
+
+
+            li.d-flex
+              .lista-ol--cuadro__vineta
+                span 2
+              span.mb-0 #[b Archivo central:] es la agrupación de documentos que han sido transferidos por diferentes archivos de gestión de cada dependencia; su consulta no es tan frecuente, pero siguen en vigencia. 
+
+
+            li.d-flex
+              .lista-ol--cuadro__vineta
+                span 3
+              span.mb-0 #[b Archivo histórico:] aquellos documentos que se transfieren desde el archivo central al archivo de conservación permanente. 
+      
+    figure
+      img(src='@/assets/curso/temas/t2/4.svg', alt='Texto que describa la imagen')
+      figcaption Fuente: SENA
 </template>
 
 <script>
