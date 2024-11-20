@@ -224,3 +224,26 @@
     -webkit-transform: translateY(40%)
     -moz-transform: translateY(40%)
     transform: translateY(40%)
+/*****************************************************/
+/*Custom Components*/
+.tarjeta--boton
+    background-color: $color-primario;
+    p
+      color: $white
+
+/*****************************************************/  
+/*Custom CSS*/
+.h-card
+  &-1
+    height: 280px
+    @media screen and (max-width: $bp-min-sm)
+      height: auto
+  &-2
+    height: 300px
+    @media screen and (max-width: $bp-min-sm)
+      height: auto
+/*****************************************************/
+/*Media Queries*/
+@media screen and (max-width: $bp-max-md)
+    .mb-cus
+      margin-bottom: 1em
