@@ -114,7 +114,7 @@
   .bloque-texto-g__img:before
     content: ''
     position: absolute
-    background: url('../assets/curso/temas/t5/adorno.png') no-repeat
+    background: url('../assets/curso/temas/t5/2.svg') no-repeat
     width: 410px
     height: 410px
     right: 0px
@@ -220,8 +220,16 @@
   font-weight: bold
 .lista-ol--separador li, .lista-ul--separador li 
     border-bottom: solid 1px #B0A292;
+.tarjeta--container > .tarjeta:first-child, .tarjeta--container > .tarjeta:last-child
+  @media screen and (max-width: $bp-min-lg)
+    border-radius: 20px
 /*****************************************************/  
 /*Custom CSS*/
+.bg-color
+  &-1
+    background-color: #FFDBA9
+    padding: 10px 10px
+    width: fit-content
 .h-card
   &-1
     height: 280px
@@ -235,6 +243,22 @@
   margin-left: 3.5rem
   @media screen and (max-width: $bp-min-sm)
     margin-left: 0
+.card-title-cus
+  background: linear-gradient(to right,  $color-primario 0%, $color-primario 6%, $color-acento-contenido 6%, $color-acento-contenido 100%);
+  display: flex;
+  align-items: center;
+  border-radius: 0 10px 10px 0;
+  max-width: fit-content
+        
+
+.card-title-cus::before
+  content: ''
+  width: 6px;
+  height: 100%;
+  background-color: $color-primario;
+  margin-left: 20px;
+.w-80
+  width: 80%       
 /*****************************************************/
 /*Media Queries*/
 @media screen and (max-width: $bp-max-md)
