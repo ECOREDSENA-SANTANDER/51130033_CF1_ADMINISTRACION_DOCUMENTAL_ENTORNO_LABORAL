@@ -14,23 +14,23 @@
       .col-sm-12.col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Orden")
-            .col-12.mb-0.ml-5
+            .col-11.mb-0.ml-5
               p.mb-0 Es el método que se utiliza para organizar los elementos y documentos, permitiendo ejercer un control y ubicación de estos. 
           .row(titulo="Responsabilidad")
-            .col-12.mb-0.ml-5
+            .col-11.mb-0.ml-5
               p.mb-0 Es una tarea de dedicación y actualización. 
           .row(titulo="Prontitud")
-            .col-12.mb-0.ml-5
+            .col-11.mb-0.ml-5
               p.mb-0 Cuando se soliciten los archivos se deben encontrar inmediatamente - disponibilidad inmediata de archivos. 
           .row(titulo="Cordialidad")
-            .col-12.mb-0.ml-5
-              p.mb-0 El funcionario responsable del archivo debe generar buena disposición en el momento de dar información en la búsqueda y suministro de los documentos. 
+            .col-11.mb-0.ml-5
+              p.mb-0 El funcionario responsable del archivo debe generar buena disposición en el momento de dar información en la búsqueda y suministro de los documentos.
               
           .row(titulo="Sigilo Profesional")
-            .col-12.mb-0.ml-5
+            .col-11.mb-0.ml-5
               p.mb-0 Las personas que desarrollen funciones administrativas, secretariales o archivísticas, deben ser reservadas en el manejo de la información por el grado de confidencialidad que esta requiere. 
           .row(titulo="Concentración")
-            .col-12.mb-0.ml-5
+            .col-11.mb-0.ml-5
               p.mb-0 La ejecución de las actividades de archivo se debe realizar minuciosamente para evitar errores, que no permiten lograr su funcionalidad.
 
 </template>
