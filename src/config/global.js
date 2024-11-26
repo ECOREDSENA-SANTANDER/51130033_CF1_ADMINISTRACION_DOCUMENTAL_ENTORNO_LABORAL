@@ -206,48 +206,46 @@ export default {
     },
   ],*/
   glosario: [
-    [
-      {
-        termino: 'Archivo',
-        significado:
-          'Conjunto de documentos generados como producto de una gestión, por lo general institucional. Una vez cumplido su trámite se deben conservar.',
-      },
-      {
-        termino: 'Archivo de Gestión',
-        significado:
-          'Comprende toda la documentación que es sometida a continua utilización y consulta administrativa, por las oficinas productoras u otras que la soliciten.',
-      },
-      {
-        termino: 'Archivo Central o Intermedio',
-        significado:
-          'Se agrupan documentos transferidos por los distintos archivos de gestión de la entidad respectiva, cuya consulta no es tan frecuente pero que siguen teniendo vigencia.',
-      },
-      {
-        termino: 'Archivo Histórico',
-        significado:
-          'Es aquel al que se transfieren desde el archivo central los documentos de archivo de conservación permanente.',
-      },
-      {
-        termino: 'Backup',
-        significado:
-          'Una copia de seguridad o copia de respaldo. En tecnologías de la información e informática es una copia de los datos originales que se realiza, con el fin de disponer de un medio de recuperación en caso de su pérdida.',
-      },
-      {
-        termino: 'Legajo',
-        significado:
-          'Son dos tapas de cartulina con gancho legajador, en donde se aseguran los documentos de un mismo tema.',
-      },
-      {
-        termino: 'Usuario',
-        significado:
-          'Personas que van en busca de una información que requieren. Los encontramos internos y externos.',
-      },
-      {
-        termino: 'Abreviatura',
-        significado:
-          'Representación gráfica de una palabra reducida en una o varias de sus letras.',
-      },
-    ],
+    {
+      termino: 'Archivo',
+      significado:
+        'Conjunto de documentos generados como producto de una gestión, por lo general institucional. Una vez cumplido su trámite se deben conservar.',
+    },
+    {
+      termino: 'Archivo de Gestión',
+      significado:
+        'Comprende toda la documentación que es sometida a continua utilización y consulta administrativa, por las oficinas productoras u otras que la soliciten.',
+    },
+    {
+      termino: 'Archivo Central o Intermedio',
+      significado:
+        'Se agrupan documentos transferidos por los distintos archivos de gestión de la entidad respectiva, cuya consulta no es tan frecuente pero que siguen teniendo vigencia.',
+    },
+    {
+      termino: 'Archivo Histórico',
+      significado:
+        'Es aquel al que se transfieren desde el archivo central los documentos de archivo de conservación permanente.',
+    },
+    {
+      termino: 'Backup',
+      significado:
+        'Una copia de seguridad o copia de respaldo. En tecnologías de la información e informática es una copia de los datos originales que se realiza, con el fin de disponer de un medio de recuperación en caso de su pérdida.',
+    },
+    {
+      termino: 'Legajo',
+      significado:
+        'Son dos tapas de cartulina con gancho legajador, en donde se aseguran los documentos de un mismo tema.',
+    },
+    {
+      termino: 'Usuario',
+      significado:
+        'Personas que van en busca de una información que requieren. Los encontramos internos y externos.',
+    },
+    {
+      termino: 'Abreviatura',
+      significado:
+        'Representación gráfica de una palabra reducida en una o varias de sus letras.',
+    },
   ],
   referencias: [
     {
