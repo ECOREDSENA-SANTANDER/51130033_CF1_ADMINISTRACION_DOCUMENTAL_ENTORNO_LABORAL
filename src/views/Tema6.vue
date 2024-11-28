@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 6
       h1 Elementos de archivo 
-    
+    p.mb-5 A continuación, se describen los diferentes elementos que se pueden encontrar en el archivo con sus respectivas características:
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-6
         LineaTiempoD.color-acento-contenido.mb-cus
