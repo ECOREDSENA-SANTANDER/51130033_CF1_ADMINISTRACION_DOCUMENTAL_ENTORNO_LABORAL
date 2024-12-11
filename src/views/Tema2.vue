@@ -107,9 +107,11 @@
               .lista-ol--cuadro__vineta
                 span 3
               span.mb-0 #[b Archivo histórico:] aquellos documentos que se transfieren desde el archivo central al archivo de conservación permanente. 
-      
+    .titulo-sexto.color-primario
+      h5 Figura 1.
+      span  Ciclo vital de los archivos  
     figure
-      img(src='@/assets/curso/temas/t2/4.svg', alt='Texto que describa la imagen')
+      img(src='@/assets/curso/temas/t2/4.svg', alt='La imagen ilustra el ciclo de vida de los documentos en un sistema archivístico. Inicia en el Archivo de Gestión, donde se conservan documentos activos. Luego, a través de Transferencias Primarias, pasan al Archivo Central para almacenamiento temporal. Finalmente, mediante Transferencias Secundarias, los documentos con valor histórico se trasladan al Archivo Histórico para su conservación permanente. Este proceso garantiza su correcta gestión y preservación.')
       figcaption Fuente: SENA
 </template>
 

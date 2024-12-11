@@ -40,7 +40,7 @@
               .col-4.col-lg-6.col-md-5.mb-3
                 img(src='@/assets/curso/temas/t3/5.svg')
             h5.text-center  Técnicos
-            p.text-center Se registra las situaciones en la toma de decisión del responsable, para no delegar equivocadamente al personal técnico de archivo.
+            p.text-center Se registran las situaciones en la toma de decisión del responsable, para no delegar equivocadamente al personal técnico de archivo.
    
 </template>
 

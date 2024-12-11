@@ -27,7 +27,7 @@
               p.mb-0 Este archivador está constituido por hileras circulares. Además, están equipados con teléfonos para que los responsables del área de trabajo suministren la información requerida.
           .row(numero="6" titulo="Archivador mecánico")
             .col-12
-              p.mb-0 Es un mueble dinámico, en el cual se acopia gran cantidad de documentos de acuerdo a la clasificación interna de la organización. Debido a su condición física permite de una manera práctica la búsqueda y manipulación de la información contenida en los documentos.
+              p.mb-0 Es un mueble dinámico, en el cual se acopia gran cantidad de documentos de acuerdo con la clasificación interna de la organización. Debido a su condición física permite de una manera práctica la búsqueda y manipulación de la información contenida en los documentos.
           .row(numero="7" titulo="Archivador electrónico")
             .col-12
               p.mb-0 Es una herramienta de tipo ofimática que sirve para recopilar la información de una manera ordenada utilizando dispositivos ópticos, para su localización y enlace en las debidas carpetas.
@@ -74,7 +74,7 @@
                 p.mb-0 Los papeles más usados para la documentación son: 
                 p.mb-0 #[b Tamaño Carta:] empleado regularmente para las comunicaciones internas y externas de la organización (clientes, proveedores). 
                 p.mb-0 #[b Tamaño Oficio:] empleado normalmente por su capacidad para la realización de documentos de carácter jurídico (acuerdos, contratos, resoluciones). 
-                p.mb-0 #[b Bond de 75 gr:] generalmente empleado para fotocopias.
+                p.mb-0 #[b Bond de 75 g:] generalmente empleado para fotocopias.
           .row(numero="19" titulo="Instrumentos de medición en los archivos")
               .col-12
                 p.mb-0 Los siguientes aparatos son empleados para garantizar la calidad y conservación en los documentos y demás soportes documentales que reposan en los archivos. 

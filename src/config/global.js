@@ -209,7 +209,7 @@ export default {
     {
       termino: 'Archivo',
       significado:
-        'Conjunto de documentos generados como producto de una gestión, por lo general institucional. Una vez cumplido su trámite se deben conservar.',
+        'conjunto de documentos generados como producto de una gestión, por lo general institucional. Una vez cumplido su trámite, se deben conservar.',
     },
     {
       termino: 'Archivo de Gestión',
@@ -219,7 +219,7 @@ export default {
     {
       termino: 'Archivo Central o Intermedio',
       significado:
-        'Se agrupan documentos transferidos por los distintos archivos de gestión de la entidad respectiva, cuya consulta no es tan frecuente pero que siguen teniendo vigencia.',
+        'se agrupan documentos transferidos por los distintos archivos de gestión de la entidad respectiva, cuya consulta no es tan frecuente, pero que siguen teniendo vigencia.',
     },
     {
       termino: 'Archivo Histórico',
@@ -229,7 +229,7 @@ export default {
     {
       termino: 'Backup',
       significado:
-        'Una copia de seguridad o copia de respaldo. En tecnologías de la información e informática es una copia de los datos originales que se realiza, con el fin de disponer de un medio de recuperación en caso de su pérdida.',
+        'una copia de seguridad o copia de respaldo. En tecnologías de la información e informática, es una copia de los datos originales que se realiza, con el fin de disponer de un medio de recuperación en caso de su pérdida.',
     },
     {
       termino: 'Legajo',
@@ -309,12 +309,12 @@ export default {
       autores: [
         {
           nombre: 'Julian Fernando Vanegas Vega',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lizeth Karina Manchego Suárez',
-          cargo: 'Desarrolladora <em>full stack</em>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -333,7 +333,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

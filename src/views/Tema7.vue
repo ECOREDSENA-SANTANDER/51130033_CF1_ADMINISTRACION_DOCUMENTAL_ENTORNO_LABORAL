@@ -10,7 +10,7 @@
     #t_7_1.titulo-segundo.color-acento-contenido
       h2 7.1  Definición 
     p.mb-3 Material conservado en un soporte físico, que por su alcance informativo adquiere la valoración de patrimonio documental, motivo por el cual los profesionales de la documentación procuran garantizar su conservación mediante almacenamiento, con el objetivo de facilitar su recuperación para posterior consulta y toma de decisiones.
-    p.mb-0 Hoy día, la noción de documento rebasa la concepción de un “escrito”, ya que, los medios tecnológicos de información disponibles brindan gran variedad de posibilidades de transporte de información mediante soportes multimediales, archivos informáticos y páginas web, entre otros.
+    p.mb-0 Hoy día, la noción de documento rebasa la concepción de un “escrito”, ya que, los medios tecnológicos de información disponibles brindan gran variedad de posibilidades de transporte de información mediante soportes multimedia, archivos informáticos y páginas web, entre otros.
 
     
     
@@ -54,13 +54,13 @@
               img(src='@/assets/curso/temas/t5/4.svg')
           .col-sm-12.col-lg-10
             h4.bg-color-1 B.	Características Externas: 
-        p.mb-3 Son aquellas características que no dependen del cuerpo del documento, sino que son parámetros que hacen que éste se realice de determinada manera, y se pueden clasificar de la siguiente forma:
+        p.mb-3 Son aquellas características que no dependen del cuerpo del documento, sino que son parámetros que hacen que este se realice de determinada manera, y se pueden clasificar de la siguiente forma:
         p.mb-0 #[b Clase:] se refiere al tipo de mensaje que se desea trasmitir en el documento, por ejemplo el contenido textual y no textual. 
         p.mb-0.mx-3 •	#[b Textual:] sus contenidos están escritos en el papel.
         p.mb-3.mx-3 •	#[b No Textual:] en algunas ocasiones pueden contener escritos, pero la diferencia radica en que se elaboraron para ser interpretados visual, auditiva e incluso manualmente; por ejemplo: los documentos informáticos, fotográficos, gráficos, sonoros, mapas y planos.
         p.mb-3 #[b Tipo:] se refiere al motivo que genera la creación del documento y la entidad misma que lo emite; por ejemplo: cartas, memorandos, circulares, informes y destinación. Se requiere aplicación de las normas técnicas. 
         p.mb-3 #[b Forma:] señala específicamente su contenido en original y copia. Se debe identificar el original con alguna clase de marquilla, en algunos casos se emplea la mención N/A, que significa no aplicable, con el ánimo de que no sea empleado para el trámite, sino que lo conserve el primer interesado. 
-        p.mb-3 #[b Formato:] refleja la presentación en físico del documento dependiendo su clase, por ejemplo: Los textuales se organizan por legajos, cajas, libros, entre otros; los no textuales, como son las imágenes y los sonoros, se organizan en cintas, microfilms, Cds, etc.
+        p.mb-3 #[b Formato:] refleja la presentación en físico del documento dependiendo su clase, por ejemplo: Los textuales se organizan por legajos, cajas, libros, entre otros; los no textuales, como son las imágenes y los sonoros, se organizan en cintas, microfilms, CDs, etc.
         p.mb-3 #[b Cantidad:] hace referencia al número de ejemplares del documento.
 
     .card-title-cus.mb-5

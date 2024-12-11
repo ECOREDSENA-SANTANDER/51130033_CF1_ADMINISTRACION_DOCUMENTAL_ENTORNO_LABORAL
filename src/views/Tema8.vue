@@ -45,7 +45,6 @@
       h2 8.2 Según el Soporte
     .row.justify-content-center
       .col-sm-12.col-lg-8
-        p Los documentos de archivo se clasifican según la función que cumplen, y el impacto que buscan generar en el destino o destinatarios; su principal objetivo radica en la rápida y efectiva localización de la información que contienen, a partir de los conceptos que los agrupa como reflejo de sus funciones generales, lo que les concede una estructura jerárquica y lógica.
         p Se clasifican por sus características físicas y condiciones de conservación, así:
 
         p #[b Textuales:] esta clase de documentos son los que más se utilizan en las empresas, algunos ejemplos de ellos son los manuscritos como; memorandos, circulares, cartas, informes. 
@@ -75,7 +74,7 @@
       .col-sm-12.col-lg-8
         p Cuando los documentos tienen una función con un objetivo que deben cumplir, pero que considera la circunstancia que hace que se genere la información que esté soportando. Su correspondiente clasificación.
         p #[b Documentos Dispositivos:] aquellos que imparten normas de obligatorio cumplimiento: leyes, decretos, ordenanzas, acuerdos, resoluciones. 
-        p #[b Documentos Informativos:] aquellos que conforman la generalidad de los documentos dentro de la función administrativa de una empresa, como son: cartas, memorando, circulares, presupuestos.
+        p #[b Documentos Informativos:] aquellos que conforman la generalidad de los documentos dentro de la función administrativa de una empresa, como son: cartas, memorandos, circulares, presupuestos.
         p #[b Documentos Testimoniales:] aquellos que sirven como prueba o testimonio, un ejemplo son como los documentos contables, contratos, etc.
 
       .col-sm-12.col-lg-4.d-none.d-lg-block   
@@ -86,7 +85,7 @@
       h2 8.5 Según su Difusión en el Tiempo
     .row.justify-content-center
       .col-sm-12.col-lg-8
-        p Es importante tener en cuenta, que no todos los documentos tienen una vigencia indefinida, sino que han sido diseñados exclusivamente para cumplir una función que tiene un principio y un final en el tiempo, como ocurre con la Tabla de Retención Documental, en la que se encuentra establecido el tiempo de permanencia de los documentos en cada fase del archivo, y su disposición final, ya se de conservación o eliminación.
+        p Es importante tener en cuenta, que no todos los documentos tienen una vigencia indefinida, sino que han sido diseñados exclusivamente para cumplir una función que tiene un principio y un final en el tiempo, como ocurre con la Tabla de Retención Documental, en la que se encuentra establecido el tiempo de permanencia de los documentos en cada fase del archivo, y su disposición final, ya sea de conservación o eliminación.
       .col-sm-12.col-lg-4.d-none.d-lg-block   
         img(src="@/assets/curso/temas/t8/5.svg", alt="")
     Separador
@@ -96,7 +95,7 @@
       .col-sm-12.col-lg-8
         p Los documentos se crean con el ánimo de apoyar una gestión, a continuación, se presenta su clasificación.
         p #[b Sustantivos o Específicos:] aquellos que soportan las funciones y objetivos de la empresa en sus diferentes áreas, por ejemplo, la programación de horarios de atención, rotación de turnos, agenda de vuelos, ruteros y demás.
-        p #[b Facilitativos o Comunes:] aquellos que además de apoyar la gestión empresarial, también se hacen presentes con contenidos diferentes, pero cumpliendo las mismas funciones, por ejemplo las nóminas, los libros contables, hojas de vida y control de expedientes del personal.
+        p #[b Facilitativos o Comunes:] aquellos que además de apoyar la gestión empresarial, también se hacen presentes con contenidos diferentes, pero cumpliendo las mismas funciones, por ejemplo: las nóminas, los libros contables, las hojas de vida y el control de expedientes del personal.
 
       .col-sm-12.col-lg-4.d-none.d-lg-block   
         img(src="@/assets/curso/temas/t8/6.svg", alt="")
