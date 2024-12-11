@@ -35,14 +35,12 @@
             span.mb-0 Soportan procesos legales personales e institucionales.
     
     
-    Separador
-    #t_8_1.titulo-segundo.color-acento-contenido
-      h2 8.1 Clasificación de los Documentos
+    h5 Clasificación de los Documentos
     p Los documentos de archivo se clasifican según la función que cumplen, y el impacto que buscan generar en el destino o destinatarios; su principal objetivo radica en la rápida y efectiva localización de la información que contienen, a partir de los conceptos que los agrupa como reflejo de sus funciones generales, lo que les concede una estructura jerárquica y lógica.
     
     Separador
-    #t_8_2.titulo-segundo.color-acento-contenido
-      h2 8.2 Según el Soporte
+    #t_8_1.titulo-segundo.color-acento-contenido
+      h2 8.1 Según el Soporte
     .row.justify-content-center
       .col-sm-12.col-lg-8
         p Se clasifican por sus características físicas y condiciones de conservación, así:
@@ -57,8 +55,8 @@
     
     
     Separador
-    #t_8_3.titulo-segundo.color-acento-contenido
-      h2 8.3 Según el Productor o Autor
+    #t_8_2.titulo-segundo.color-acento-contenido
+      h2 8.2 Según el Productor o Autor
     .row.justify-content-center
       .col-sm-12.col-lg-8
           p Se refiere a la empresa o persona que elabora el documento y la función a la cual se destina. Se clasifican en:
@@ -68,8 +66,8 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block   
         img(src="@/assets/curso/temas/t8/3.svg", alt="")
     Separador
-    #t_8_4.titulo-segundo.color-acento-contenido
-      h2 8.4 Según su Finalidad
+    #t_8_3.titulo-segundo.color-acento-contenido
+      h2 8.3 Según su Finalidad
     .row.justify-content-center
       .col-sm-12.col-lg-8
         p Cuando los documentos tienen una función con un objetivo que deben cumplir, pero que considera la circunstancia que hace que se genere la información que esté soportando. Su correspondiente clasificación.
@@ -81,16 +79,16 @@
         img(src="@/assets/curso/temas/t8/2.svg", alt="")
     
     Separador
-    #t_8_5.titulo-segundo.color-acento-contenido
-      h2 8.5 Según su Difusión en el Tiempo
+    #t_8_4.titulo-segundo.color-acento-contenido
+      h2 8.4 Según su Difusión en el Tiempo
     .row.justify-content-center
       .col-sm-12.col-lg-8
         p Es importante tener en cuenta, que no todos los documentos tienen una vigencia indefinida, sino que han sido diseñados exclusivamente para cumplir una función que tiene un principio y un final en el tiempo, como ocurre con la Tabla de Retención Documental, en la que se encuentra establecido el tiempo de permanencia de los documentos en cada fase del archivo, y su disposición final, ya sea de conservación o eliminación.
       .col-sm-12.col-lg-4.d-none.d-lg-block   
         img(src="@/assets/curso/temas/t8/5.svg", alt="")
     Separador
-    #t_8_6.titulo-segundo.color-acento-contenido
-      h2 8.6 Según su Funcionalidad
+    #t_8_5.titulo-segundo.color-acento-contenido
+      h2 8.5 Según su Funcionalidad
     .row.justify-content-center
       .col-sm-12.col-lg-8
         p Los documentos se crean con el ánimo de apoyar una gestión, a continuación, se presenta su clasificación.
