@@ -227,7 +227,7 @@ export default {
         'Es aquel al que se transfieren desde el archivo central los documentos de archivo de conservación permanente.',
     },
     {
-      termino: 'Backup',
+      termino: '<i>Backup</i>',
       significado:
         'una copia de seguridad o copia de respaldo. En tecnologías de la información e informática, es una copia de los datos originales que se realiza, con el fin de disponer de un medio de recuperación en caso de su pérdida.',
     },
